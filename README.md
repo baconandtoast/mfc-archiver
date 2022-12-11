@@ -16,6 +16,8 @@ Specifically this was written for the website [MyFreeCams](https://www.myfreecam
 
 The script will ask for the URL of the `.m3u8` file and the name of the MP4 file to save the live stream to. The MP4 file will be created in the current working directory.
 
+When the download is in progress, you can pause or resume the download by entering p or r respectively. To quit the script, enter q.
+
 ## How to get URL for .m3u8
 
 In the case of MyFreeCams, go to models live stream, open developer tools, go to network tab and search for .m3u8.
